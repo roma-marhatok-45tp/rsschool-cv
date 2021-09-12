@@ -5,7 +5,7 @@
 - [github](https://github.com/roma-marhatok-45tp)
 - Phone: +375 44-468-4682
 # Summary
-I started to study programming in 2020 when I entered my sophomore year of college. Through college, I became more active in this area and found my best friends. My main goal in this area is to become a sought-after specialist in the backend component of my profession. Although I don't learn very quickly, I compensate for this with my persistence.
+I started to study programming in 2020 when I entered my sophomore year of college. In college, I became more active in this area. My main goal in this area is to become a sought-after specialist in the backend component of my profession. Although I don't learn very quickly, I compensate for this with my persistence.
 # Skills and Proficiency:
 1. Basic knowledges
    - С++
