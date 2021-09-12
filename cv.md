@@ -1,6 +1,4 @@
-# rs-school
 # Roma Marhatok
----
 # Contacts
 - Location: Minsk
 - Discord: rang
